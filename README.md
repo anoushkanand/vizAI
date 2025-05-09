@@ -1,1 +1,1 @@
-# vizAI
+# VizAI
