@@ -19,7 +19,7 @@ VizAI is an interactive Streamlit app that lets users upload a SQLite database a
 
 ## 🚀 Demo
 
-![vizai-demo]((https://drive.google.com/file/d/1Y7V_nPeFDzS46UIMDQtqu8yKwMUWnJep/view?usp=sharing))
+![vizai-demo](https://drive.google.com/file/d/1Y7V_nPeFDzS46UIMDQtqu8yKwMUWnJep/view?usp=sharing)
 
 ---
 
@@ -28,7 +28,7 @@ VizAI is an interactive Streamlit app that lets users upload a SQLite database a
 | Layer       | Technology                          |
 |------------|--------------------------------------|
 | Frontend   | [Streamlit](https://streamlit.io/)   |
-| Backend    | Python, [LangChain](https://www.langchain.com/), [LIDA]((https://microsoft.github.io/lida/)) |
+| Backend    | Python, [LangChain](https://www.langchain.com/), [LIDA](https://microsoft.github.io/lida/) |
 | LLM        | OpenAI (`gpt-3.5-turbo`)             |
 | Database   | SQLite (.db upload)                  |
 | Visualization | Plotly, Plotly Express           |
