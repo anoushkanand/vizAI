@@ -19,7 +19,7 @@ VizAI is an interactive Streamlit app that lets users upload a SQLite database a
 
 ## 🚀 Demo
 
-![vizai-demo](https://drive.google.com/file/d/1Y7V_nPeFDzS46UIMDQtqu8yKwMUWnJep/view?usp=sharing)
+[![VizAI Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Y7V_nPeFDzS46UIMDQtqu8yKwMUWnJep/view?usp=sharing)
 
 ---
 
